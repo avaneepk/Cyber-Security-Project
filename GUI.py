@@ -24,7 +24,7 @@ def entered_data():
         else:
             tkinter.messagebox.showwarning(title = "Incorrect Password", message =f"Password must have at least 8 characters which contain at least 1 number, 1 letter and 1 punctuation mark ({string.punctuation}).")
         
-        #Saving account to the serve.....
+        #Saving account to the server.....
 
 def authentication():
     username1 = username_box.get()

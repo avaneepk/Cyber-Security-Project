@@ -81,11 +81,6 @@ def registration():
             break
 
 
-
-
-
-
-
 #for logging in
 def login():
     user_py= str(input("Username:"))

@@ -7,7 +7,7 @@ conn = psycopg2.connect(    #need to add your own connection here
     host="localhost",
     database="forum_server",
     user="postgres",
-    password="avaneep")
+    password="")
 c = conn.cursor()
 
 def register(user,passcode_2):
