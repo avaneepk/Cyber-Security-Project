@@ -2,7 +2,7 @@
 
 A small project for a university course on Cyber Security. The users create their user authentication login details.
 
-The project was created using Python, Tkinter, PostgreSQL, and GitHub repositories. This was a group project, and my role was to create the SQL connection, along with modifying information into the database using pyhton in server.py . 
+The project was created using Python, Tkinter, PostgreSQL, and GitHub repositories. This was a group project, and my role was to create the SQL connection, along with modifying information into the database using python in server.py . 
 
 ## Install dependencies
 
